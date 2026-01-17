@@ -48,3 +48,13 @@
 ## 🌱 Learning Philosophy
 I believe in continuous learning, consistency, and honest progress.  
 This GitHub profile documents my journey and growth as a computer science student 🚀
+
+---
+
+## 📊 GitHub Journey
+I actively use GitHub to practice programming, organize my learning,  
+and track my progress through continuous commits and projects.
+
+---
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
