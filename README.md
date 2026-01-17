@@ -12,21 +12,18 @@
 - **Concepts:** Algorithms, Problem Solving, OOP  
 - **Tools:** Git, GitHub, Visual Studio  
 
----## 📂 Featured Projects
-
-- 🔹 **Algorithms & Problem Solving**  
-  Practice problems and algorithms (Dr. Mohammed Abu-Hadhoud roadmap)  
+## 📂 Featured Projects
 
 - 🔹 **Java Fundamentals**  
-  Basic exercises and university assignments covering Java fundamentals and OOP  
+  Basic exercises and university assignments using Java  
 
 - 🔹 **Python Fundamentals**  
   Practice exercises and small scripts from Python fundamentals  
 
-- 🔹 **C++ Fundamentals**  
-  Learning C++ basics and applying core programming concepts  
+- 🔹 **Algorithms & Problem Solving**  
+  Will be added gradually while learning C++  
 
-> Projects are organized by learning order and will grow step by step 🚀 Projects are organized by learning track and will grow over time 🚀
+> Projects are organized by learning readiness and will grow over time 🚀
 
 ---
 
