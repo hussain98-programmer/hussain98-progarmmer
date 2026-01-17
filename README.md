@@ -2,15 +2,16 @@
 
 🎓 Computer Science student at Arab Open University  
 📚 Studying Object-Oriented Programming (Java) at university  
-🚀 Currently learning C++ and Problem Solving through Dr. Mohammed Abu-Hadhoud roadmap  
 💡 Passionate about self-improvement and building strong programming foundations step by step  
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** C++, Java, Python  
+- **Languages:** Java, Python, C++  
 - **Concepts:** Algorithms, Problem Solving, OOP  
 - **Tools:** Git, GitHub, Visual Studio  
+
+---
 
 ## 📂 Featured Projects
 
@@ -21,7 +22,7 @@
   Practice exercises and small scripts from Python fundamentals  
 
 - 🔹 **Algorithms & Problem Solving**  
-  Will be added gradually while learning C++  
+  Will be added gradually during future C++ learning  
 
 > Projects are organized by learning readiness and will grow over time 🚀
 
@@ -29,17 +30,16 @@
 
 ## 🏆 Achievements & Learning Progress
 - ✅ Completed **3 courses** in Dr. Mohammed Abu-Hadhoud Roadmap (Programming Advices)  
-- ✅ Studied **Python fundamentals** at university  
 - ✅ Studied **Java fundamentals** at university  
+- ✅ Studied **Python fundamentals** at university  
 - ✅ Currently studying **Object-Oriented Programming (Java)**  
-- ✅ Practicing problem solving regularly to improve logic and thinking skills  
+- ✅ Practicing programming regularly to improve logic and coding skills  
 
 ---
 
 ## 🎯 Currently Working On
-- 📌 Abu-Hadhoud Roadmap  
-- 📌 Mastering C++ fundamentals  
-- 📌 Algorithms & Problem Solving  
+- 📌 Java fundamentals and university assignments  
+- 📌 Python fundamentals and practice exercises  
 - 📌 Improving OOP concepts in Java  
 - 📌 Building a strong and professional GitHub profile  
 
